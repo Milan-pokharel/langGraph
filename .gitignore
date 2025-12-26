@@ -1,0 +1,5 @@
+.env
+
+graphvenv/
+
+.ipynb_checkpoints/
